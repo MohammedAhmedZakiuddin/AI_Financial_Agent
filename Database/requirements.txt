@@ -1,0 +1,4 @@
+gradio
+openai
+pdfplumber
+python-dotenv
